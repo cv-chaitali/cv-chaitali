@@ -30,7 +30,7 @@
 
 Let's connect and explore the world of AI together! 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=cv-chaitali&color=blueviolet)
+
 
 
 <!--
