@@ -1,11 +1,14 @@
 ## Hi there 👋
+- 🔭 I'm a CS-PhD student in DGIST (Daegu-Gyeongbuk Institute of Science and Technology). 
+- 🌱 Currently Working on Efficient AI & LLM @ CELL lab.
+- 🌱 I used to work on vision models (Generative models, data generalisation and classification) in my MS studies. 
 
 <!--
 **cv-chaitali/cv-chaitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm a CS-PhD student in DGIST (Daegu-Gyeongbuk Institute of Science and Technology). 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
