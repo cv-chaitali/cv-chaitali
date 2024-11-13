@@ -1,10 +1,10 @@
-# Hi there, I'm Chaitali! 👋 
+# Hi there, I'm Chaitali! (Pronounced as Choitali)👋 
 
 🎓 **CS-PhD Student** | 🌏 **DGIST** | 💡 **AI Researcher** | 🚀 **LLMs Enthusiast**
 
 ---
 
-🌟 I'm a dedicated researcher focused on **Efficient AI** and **Large Language Models (LLMs)** at the **CELL Lab, DGIST**. My journey in AI began with **vision models** during my MS, where I explored the realms of **generative models**, **data generalization**, and **classification**.
+🌟 My research is focused on **Efficient AI** and **Large Language Models (LLMs)** at the **CELL Lab, DGIST**. My journey in AI began with **vision models** during my MS, where I explored the realms of **generative models**, **data generalization**, and **classification**.
 
 🔗 **[My Personal Website](https://cv-chaitali.github.io/myvision.github.io/)** 
 
@@ -12,7 +12,7 @@
 
 ### 🌱 Current Research Interests
 
-- **Efficient AI** & **LLMs** 📚  
+- **Efficient AI** & **LLMs/VLMs** 📚  
 - **Knowledge Distillation** for smaller, faster models 🔍  
 - Model **pruning**, **quantization**, and **fine-tuning** 🧬  
 - Exploring **AI scalability** while keeping performance optimized 📈  
