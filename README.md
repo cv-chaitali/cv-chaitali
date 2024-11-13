@@ -1,7 +1,37 @@
-## Hi there 👋
-- 🔭 I'm a CS-PhD student in DGIST (Daegu-Gyeongbuk Institute of Science and Technology). 
-- 🌱 Currently Working on Efficient AI & LLM @ CELL lab.
-- 🌱 I used to work on vision models (Generative models, data generalisation and classification) in my MS studies. 
+# Hi there, I'm Chaitali! 👋 
+
+🎓 **CS-PhD Student** | 🌏 **DGIST** | 💡 **AI Researcher** | 🚀 **LLMs Enthusiast**
+
+---
+
+🌟 I'm a dedicated researcher focused on **Efficient AI** and **Large Language Models (LLMs)** at the **CELL Lab, DGIST**. My journey in AI began with **vision models** during my MS, where I explored the realms of **generative models**, **data generalization**, and **classification**.
+
+🔗 **[My Personal Website](https://cv-chaitali.github.io/myvision.github.io/)** 
+
+---
+
+### 🌱 Current Research Interests
+
+- **Efficient AI** & **LLMs** 📚  
+- **Knowledge Distillation** for smaller, faster models 🔍  
+- Model **pruning**, **quantization**, and **fine-tuning** 🧬  
+- Exploring **AI scalability** while keeping performance optimized 📈  
+
+---
+
+### 🔍 Experience Snapshot
+
+- **Vision Models** in MS studies  
+  - 🖼 Generative Models  
+  - 🧩 Data Generalization  
+  - 📊 Classification  
+
+---
+
+Let's connect and explore the world of AI together! 😊
+
+![Profile Views](https://komarev.com/ghpvc/?username=cv-chaitali&color=blueviolet)
+
 
 <!--
 **cv-chaitali/cv-chaitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
