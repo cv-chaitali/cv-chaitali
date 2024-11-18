@@ -1,32 +1,36 @@
-# Hi there, I'm Chaitali! (Pronounced as Choitali)👋
+# Hi there, I'm Chaitali! (Pronounced as Choitali) 👋
 
-🎓 `CS-PhD Student` | 🌏 `DGIST` | 💡 `AI Researcher` | 🚀 `LLMs Enthusiast`
+class AboutMe:
+    def __init__(self):
+        self.name = "Chaitali"
+        self.pronunciation = "Choitali"
+        self.title = "CS-PhD Student"
+        self.affiliation = "DGIST"
+        self.lab = "CELL Lab"
+        self.roles = ["AI Researcher", "LLMs Enthusiast"]
 
----
+    def research_focus(self):
+        return {
+            "main_areas": ["Efficient AI", "Large Language Models (LLMs)"],
+            "past_experience": ["Vision Models", "Generative Models", 
+                                "Data Generalization", "Classification"]
+        }
 
-🌟 My research is focused on `Efficient AI` and `Large Language Models (LLMs)` at the `CELL Lab, DGIST`.  
-My journey in AI began with `vision models` during my MS, where I explored the realms of `generative models`, `data generalization`, and `classification`.
+    def interests(self):
+        return [
+            "Knowledge Distillation for smaller, faster models",
+            "Model pruning, quantization, and fine-tuning",
+            "Exploring AI scalability while optimizing performance"
+        ]
 
-🔗 **[My Personal Website](https://cv-chaitali.github.io/myvision.github.io/)** 
+    def connect(self):
+        return "Visit my website: https://cv-chaitali.github.io/myvision.github.io/"
 
----
+# Create an instance
+me = AboutMe()
 
-### 🌱 `Current Research Interests`
-
-- `Efficient AI` & `LLMs/VLMs` 📚  
-- `Knowledge Distillation` for smaller, faster models 🔍  
-- Model `pruning`, `quantization`, and `fine-tuning` 🧬  
-- Exploring `AI scalability` while keeping performance optimized 📈  
-
----
-
-### 🔍 `Experience Snapshot`
-
-- `Vision Models` in MS studies  
-  - 🖼 `Generative Models`  
-  - 🧩 `Data Generalization`  
-  - 📊 `Classification`  
-
----
-
-Let's connect and explore the world of `AI` together! 😊
+# Display information
+print("🎓 Title:", me.title)
+print("🌟 Research Focus:", me.research_focus())
+print("🌱 Current Interests:", me.interests())
+print("🔗 Connect with me:", me.connect())
