@@ -29,4 +29,3 @@ My journey in AI began with `vision models` during my MS, where I explored the r
 
 ---
 
-Let's connect and explore the world of `AI` together! 😊
