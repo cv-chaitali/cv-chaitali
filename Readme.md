@@ -1,4 +1,4 @@
-# Hi there, I'm Chaitali- চৈতালী ভট্টাচার্য! (Pronounced as Choitali)👋
+# Hi there, I'm Chaitali- চৈতালী ভট্টাচার্য্য (Pronounced as Choitali)👋
 
 🎓 `a PhD student` | 🌏 `POSTECH` 
 
