@@ -6,5 +6,5 @@
 **Research Interests:** `Artificial Intelligence` | `LLM Training & Optimization` | `LLM Fine-tuning` | `Data Curation`
 
 
-🔗 **[My Personal Website](https://cv-chaitali.github.io)** 
+🔗 **[Check out](https://cv-chaitali.github.io)** 
 
